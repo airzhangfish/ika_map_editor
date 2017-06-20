@@ -1,0 +1,1 @@
+gcj --main=split split.java
